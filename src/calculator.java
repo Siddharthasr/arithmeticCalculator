@@ -58,7 +58,6 @@ public class calculator{
 	        }
 	        catch (NumberFormatException ex){
 	        	System.out.println("Invalid input. Try Again");
-	        	found = false;
 	        	break;
 	        }
 			}
